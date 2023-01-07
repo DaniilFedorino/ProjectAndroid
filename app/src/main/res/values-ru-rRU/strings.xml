@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="Title">Кличка:</string>
+    <string name="Breed">Порода:</string>
+    <string name="Age">Возраст:</string>
+    <string name="PassportData">Паспортные данные:</string>
+    <string name="Vaccinations">Прививки:</string>
+</resources>

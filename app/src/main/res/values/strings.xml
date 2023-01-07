@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="Title">Title:</string>
+    <string name="Breed">Breed:</string>
+    <string name="Age">Age:</string>
+    <string name="PassportData">Passport data:</string>
+    <string name="Vaccinations">Vaccinations:</string>
+</resources>
